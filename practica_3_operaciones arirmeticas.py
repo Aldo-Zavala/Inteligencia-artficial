@@ -1,7 +1,6 @@
 #declaramos las variables dato_1 y dato_2 con numeros
 dato_1 = 10 
 dato_2 = 2
-
 #sumamos los dos valores 
 suma = dato_1 + dato_2
 #restamos los dos valores de las dos formas
