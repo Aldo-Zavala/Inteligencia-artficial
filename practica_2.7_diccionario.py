@@ -1,9 +1,10 @@
 print("imagina que vas a comprar zapatos")
+#creamos las variables que llevara el diccionario
 marca = input("¿que marca de tenis prefieres?: ")
 modelo = input("¿que modelo de tenis prefieres?: ")
 talla = input("¿que talla de tenis deseas?: ")
 cantidad = input("¿cuantos pares de tenis quieres comprar?: ")
-zapato = {
+zapato = {#creamos el diccionario llamado zapato
     "marca" : marca,
     "modelo" : modelo,
     "talla" : talla,
